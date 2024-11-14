@@ -4,7 +4,7 @@ FROM Customer
 WHERE referee_id != 2
 OR referee_id IS NULL
 
--- 522 ms Beats 58.01%
+-- Runtime 522 ms Beats 58.01%
 
 /*
 Table: Customer
