@@ -7,6 +7,8 @@ OR population >= 25000000
 -- Runtime 344 ms Beats 24.05%
 
 /*
+
+595. Big  Countries
 Table: World
 
 +-------------+---------+

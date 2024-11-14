@@ -6,7 +6,7 @@ AND recyclable = 'Y'
 
 -- Runtime 568 ms Beats 61.87%
 
-/* Description
+/*
 
 1757. Recyclable and Low Fat Products
 Table: Products
